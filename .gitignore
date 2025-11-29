@@ -1,0 +1,16 @@
+﻿# Python / uv / venv
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.env.local
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/launch.json
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
